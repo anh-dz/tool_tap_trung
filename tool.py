@@ -1,6 +1,5 @@
 print("Tool tap trung v1.0")
 import tkinter as tk
-from ctypes import *
 from PIL import ImageTk, Image
 
 hour, minute, second = int(input("Nhập giờ: ")), int(input("Nhập phút: ")), int(input("Nhập giây: "))
