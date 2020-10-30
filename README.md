@@ -1,2 +1,6 @@
 # tool_tap_trung
-Tool Tập Trung v1.0
+<b>Tool Tập Trung v1.0<br>
+Yêu cầu cài đặt thư viện: pyautogui</b><br>
+Kênh Youtube: https://www.youtube.com/channel/UCYl4-jjbobDXhiLj-HQuKqw <br>
+Facebook tôi: https://www.facebook.com/minkalexvina <br>
+Gia nhập group Dân IT tại đây: https://www.facebook.com/groups/803129063825326/ <br>
